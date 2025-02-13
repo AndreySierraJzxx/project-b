@@ -39,7 +39,7 @@ const EventChart = () => {
             {
               label: "Número de participantes",
               data: data.map((event) => event.participant_count),
-              backgroundColor: "#1f2937",
+              backgroundColor: "#6eacde",
             },
           ],
         });

@@ -15,7 +15,7 @@ http://localhost:8000/api/events/participants-count
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-ejemplo/tu-ejemplo.git
+git clone https://github.com/AndreySierraJzxx/project-b.git
 cd  project-b
 
 ```
@@ -39,7 +39,7 @@ npm run dev
 ## 1 Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/project-a.git
+git clone https://github.com/AndreySierraJzxx/project-b.git
 cd project-a
 ```
 
